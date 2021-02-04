@@ -3,4 +3,4 @@ from django.shortcuts import render,HttpResponse,redirect
 # Create your views here.
 
 def index(request):
-    return HttpResponse('hello my website')
+    return render(request,'my_index_app01/index.html')
