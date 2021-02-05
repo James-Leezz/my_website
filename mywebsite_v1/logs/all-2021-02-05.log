@@ -1,0 +1,6 @@
+[2021-02-05 20:22:31,763] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /index HTTP/1.1" 200 59959
+[2021-02-05 20:22:32,455] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/favicon.ico HTTP/1.1" 200 4286
+[2021-02-05 20:22:36,615] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /sign_up HTTP/1.1" 200 19703
+[2021-02-05 20:22:36,870] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-6.jpeg HTTP/1.1" 200 126621
+[2021-02-05 20:23:18,799] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /sign_up1 HTTP/1.1" 200 19703
+[2021-02-05 20:23:22,930] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /sign_up122 HTTP/1.1" 200 19703
