@@ -13,7 +13,7 @@
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
+	<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
 	<!-- Web Fonts -->
 	<link
 		href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext'
@@ -103,7 +103,8 @@
 											<li><a href="#portfolio">Portfolio</a></li>
 											<li><a href="#clients">Clients</a></li>
 											<li><a href="#login">Login</a></li>
-											<li><a href="#sign_up">Sign up</a></li>
+											<!-- <li><a href="#sign_up">Sign up</a></li> -->
+											<li><a href="/sign_up">Sign up</a></li>
 										</ul>
 									</div>
 
@@ -1227,15 +1228,15 @@
 
 		<!-- section start -->
 		<!-- ================ -->
-		<div class="default-bg space">
+		<!-- <div class="default-bg space">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="text-center">10000+ Happy Clients!</h1>
+						<h1 class="text-center">Login!</h1>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- section end -->
 
 		<!-- footer start -->
@@ -1246,7 +1247,7 @@
 			<!-- ================ -->
 			<div class="footer section bg-image-5">
 				<div class="container">
-					<h1 class="title text-center" id="login">Contact Me</h1>
+					<h1 class="title text-center" id="login">Login</h1>
 					<div class="space"></div>
 					<div class="row">
 						<div class="col-sm-6">
@@ -1294,26 +1295,26 @@
 									</div>
 									<input type="submit" value="Send" class="btn btn-default">
 								</form> -->
-								<form method="post" action="/index">
+								<form method="post" action="/login_check">
 									{% csrf_token%}
 									<div class="form-group">
-										<label for="exampleInputEmail1">Email address</label>
-										<input type="email" class="form-control" id="exampleInputEmail1"
-											placeholder="Email">
+										<label for="exampleInputEmail1">username</label>
+										<input type="text" class="form-control" id="exampleInputEmail1"
+											placeholder="username" name="username">
 									</div>
 									<div class="form-group">
 										<label for="exampleInputPassword1">Password</label>
 										<input type="password" class="form-control" id="exampleInputPassword1"
-											placeholder="Password">
+											placeholder="Password" name="password">
 									</div>
-									<div class="form-group">
+									<!-- <div class="form-group">
 										<label for="exampleInputFile">File input</label>
 										<input type="file" id="exampleInputFile">
 										<p class="help-block">Example block-level help text here.</p>
-									</div>
+									</div> -->
 									<div class="checkbox">
 										<label>
-											<input type="checkbox"> Check me out
+											<input type="checkbox" name="remember">remember username
 										</label>
 									</div>
 									<button type="submit" class="btn btn-default">Submit</button>

@@ -247,6 +247,11 @@ blockquote {
 .bg-image-5{
 	background: url("../images/bg-image-5.jpeg") 50% 0px no-repeat;
 }
+.bg-image-6{
+	background: url("../images/bg-image-6.jpeg") 50% 0px no-repeat;
+	background-size:100% 100%;
+}
+
 /* Misc
 ----------------------------------------------------------------------------- */
 .object-non-visible {
