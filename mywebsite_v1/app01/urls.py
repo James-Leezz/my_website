@@ -9,4 +9,5 @@ urlpatterns = [
     url(r'^userpage$', views.userpage), # 首页
     url(r'^sign_up_check$',views.sign_up_check),
     url(r'^sign_up$',views.sign_up),
+    url(r'^$',views.default_index),
 ]

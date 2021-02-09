@@ -66,3 +66,9 @@ def sign_up_check(request):
     a.password = request.POST.get('password')
     a.save()
     return render(request,'my_index_app01/sign_up_jump.html') 
+
+
+def default_index(request):
+    return render(request,'my_index_app01/index.html')
+
+

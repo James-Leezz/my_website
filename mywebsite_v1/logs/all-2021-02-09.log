@@ -1,0 +1,227 @@
+[2021-02-08 23:19:40,712] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/animations.css
+[2021-02-08 23:19:40,739] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/style.css
+[2021-02-08 23:19:40,741] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/custom.css
+[2021-02-08 23:19:40,783] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-08 23:19:40,784] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-08 23:19:40,787] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-08 23:19:40,788] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/logo.png
+[2021-02-08 23:19:40,789] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/storm spirit.jpeg
+[2021-02-08 23:19:40,790] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/doom.jpeg
+[2021-02-08 23:19:40,835] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-08 23:19:40,836] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-08 23:19:40,848] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-08 23:19:40,849] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-1.jpg
+[2021-02-08 23:19:40,850] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/sf.jpeg
+[2021-02-08 23:19:40,851] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-2.jpg
+[2021-02-08 23:19:40,878] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/gangbei.jpeg
+[2021-02-08 23:19:40,884] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-3.jpg
+[2021-02-08 23:19:40,891] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/kaer.jpeg
+[2021-02-08 23:19:40,904] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-4.jpg
+[2021-02-08 23:19:40,907] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/ta.jpeg
+[2021-02-08 23:19:40,908] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-5.jpg
+[2021-02-08 23:19:40,924] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/lanpang.jpeg
+[2021-02-08 23:19:40,934] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-6.jpg
+[2021-02-08 23:19:40,940] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/labike.jpg
+[2021-02-08 23:19:40,958] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-7.jpg
+[2021-02-08 23:19:40,966] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/mituan.jpeg
+[2021-02-08 23:19:40,971] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-8.jpg
+[2021-02-08 23:19:40,976] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/pake.jpeg
+[2021-02-08 23:19:40,989] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-9.jpg
+[2021-02-08 23:19:40,990] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/qop.jpeg
+[2021-02-08 23:19:41,003] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-10.jpg
+[2021-02-08 23:19:41,017] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/shushi.jpeg
+[2021-02-08 23:19:41,018] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-11.jpg
+[2021-02-08 23:19:41,022] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/storm spirit.jpeg
+[2021-02-08 23:19:41,033] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-12.jpg
+[2021-02-08 23:19:41,039] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-1.png
+[2021-02-08 23:19:41,048] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-2.png
+[2021-02-08 23:19:41,177] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-08 23:19:41,226] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-08 23:19:41,276] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-08 23:19:41,320] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-08 23:19:41,363] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-08 23:19:41,411] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-09 01:47:50,974] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 01:47:51,992] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 01:48:00,607] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 01:48:19,952] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 01:52:29,779] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 01:52:29,931] [base.py:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+[2021-02-09 02:06:01,116] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 02:30:04,277] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/animations.css
+[2021-02-09 02:30:04,303] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/style.css
+[2021-02-09 02:30:04,305] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/custom.css
+[2021-02-09 02:30:04,325] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/storm spirit.jpeg
+[2021-02-09 02:30:04,328] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/logo.png
+[2021-02-09 02:30:04,329] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/doom.jpeg
+[2021-02-09 02:30:04,331] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-1.jpg
+[2021-02-09 02:30:04,357] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-09 02:30:04,362] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-09 02:30:04,377] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-09 02:30:04,378] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-09 02:30:04,389] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-09 02:30:04,391] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-09 02:30:04,404] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/sf.jpeg
+[2021-02-09 02:30:04,408] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-2.jpg
+[2021-02-09 02:30:04,421] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/gangbei.jpeg
+[2021-02-09 02:30:04,425] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-3.jpg
+[2021-02-09 02:30:04,437] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/kaer.jpeg
+[2021-02-09 02:30:04,440] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-4.jpg
+[2021-02-09 02:30:04,464] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/ta.jpeg
+[2021-02-09 02:30:04,466] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-5.jpg
+[2021-02-09 02:30:04,472] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/lanpang.jpeg
+[2021-02-09 02:30:04,476] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-6.jpg
+[2021-02-09 02:30:04,489] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-09 02:30:04,495] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/labike.jpg
+[2021-02-09 02:30:04,508] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-7.jpg
+[2021-02-09 02:30:04,513] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/mituan.jpeg
+[2021-02-09 02:30:04,519] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-09 02:30:04,522] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-8.jpg
+[2021-02-09 02:30:04,535] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/pake.jpeg
+[2021-02-09 02:30:04,539] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-9.jpg
+[2021-02-09 02:30:04,551] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-09 02:30:04,555] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/qop.jpeg
+[2021-02-09 02:30:04,564] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-10.jpg
+[2021-02-09 02:30:04,567] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/shushi.jpeg
+[2021-02-09 02:30:04,581] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-09 02:30:04,589] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-11.jpg
+[2021-02-09 02:30:04,596] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/storm spirit.jpeg
+[2021-02-09 02:30:04,600] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-12.jpg
+[2021-02-09 02:30:04,609] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-09 02:30:04,619] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-1.png
+[2021-02-09 02:30:04,629] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-2.png
+[2021-02-09 02:30:04,653] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-09 02:30:04,718] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/favicon.ico
+[2021-02-09 02:30:10,444] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 02:30:10,549] [base.py:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+[2021-02-09 02:32:57,632] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /index HTTP/1.1" 200 59959
+[2021-02-09 02:32:57,747] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/animations.css HTTP/1.1" 200 3087
+[2021-02-09 02:32:57,772] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/custom.css HTTP/1.1" 200 296
+[2021-02-09 02:32:57,774] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 14020
+[2021-02-09 02:32:57,802] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/logo.png HTTP/1.1" 200 1330
+[2021-02-09 02:32:57,809] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/doom.jpeg HTTP/1.1" 200 15776
+[2021-02-09 02:32:57,839] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/modernizr.js HTTP/1.1" 200 9393
+[2021-02-09 02:32:57,842] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/isotope/isotope.pkgd.min.js HTTP/1.1" 200 35624
+[2021-02-09 02:32:58,115] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/jquery.backstretch.min.js HTTP/1.1" 200 4233
+[2021-02-09 02:32:58,162] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/jquery.appear.js HTTP/1.1" 200 4227
+[2021-02-09 02:32:58,211] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/js/template.js HTTP/1.1" 200 3367
+[2021-02-09 02:32:58,286] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 73111
+[2021-02-09 02:32:58,287] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/js/custom.js HTTP/1.1" 200 313
+[2021-02-09 02:32:58,603] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-1.jpg HTTP/1.1" 200 17732
+[2021-02-09 02:32:58,852] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/sf.jpeg HTTP/1.1" 200 35804
+[2021-02-09 02:32:58,855] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-2.jpg HTTP/1.1" 200 26550
+[2021-02-09 02:32:59,644] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/storm%20spirit.jpeg HTTP/1.1" 200 142977
+[2021-02-09 02:33:00,250] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-3.jpg HTTP/1.1" 200 39212
+[2021-02-09 02:33:00,792] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-4.jpg HTTP/1.1" 200 23953
+[2021-02-09 02:33:03,006] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/gangbei.jpeg HTTP/1.1" 200 150084
+[2021-02-09 02:33:03,972] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-5.jpg HTTP/1.1" 200 17680
+[2021-02-09 02:33:04,798] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/ta.jpeg HTTP/1.1" 200 198080
+[2021-02-09 02:33:05,548] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-6.jpg HTTP/1.1" 200 46436
+[2021-02-09 02:33:06,176] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/lanpang.jpeg HTTP/1.1" 200 89008
+[2021-02-09 02:33:06,451] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/labike.jpg HTTP/1.1" 200 17489
+[2021-02-09 02:33:06,806] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/kaer.jpeg HTTP/1.1" 200 340252
+[2021-02-09 02:33:06,903] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-7.jpg HTTP/1.1" 200 13059
+[2021-02-09 02:33:07,902] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-8.jpg HTTP/1.1" 200 15397
+[2021-02-09 02:33:09,266] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-9.jpg HTTP/1.1" 200 13059
+[2021-02-09 02:33:10,506] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/qop.jpeg HTTP/1.1" 200 158317
+[2021-02-09 02:33:11,758] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-10.jpg HTTP/1.1" 200 26779
+[2021-02-09 02:33:12,592] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/shushi.jpeg HTTP/1.1" 200 90169
+[2021-02-09 02:33:13,841] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-11.jpg HTTP/1.1" 200 23938
+[2021-02-09 02:33:14,158] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/storm%20spirit.jpeg HTTP/1.1" 200 28521
+[2021-02-09 02:33:14,956] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-12.jpg HTTP/1.1" 200 15889
+[2021-02-09 02:33:15,451] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/testimonial-1.png HTTP/1.1" 200 1243
+[2021-02-09 02:33:16,378] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/testimonial-2.png HTTP/1.1" 200 1344
+[2021-02-09 02:33:19,232] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/pake.jpeg HTTP/1.1" 200 246918
+[2021-02-09 02:33:25,088] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-2.jpeg HTTP/1.1" 200 213236
+[2021-02-09 02:33:26,055] [base.py:152] [base:get_response] [WARNING]- Not Found: /
+[2021-02-09 02:33:26,055] [basehttp.py:124] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 74
+[2021-02-09 02:33:26,855] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-5.jpeg HTTP/1.1" 200 172032
+[2021-02-09 02:33:26,861] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-1.jpg HTTP/1.1" 200 532480
+[2021-02-09 02:33:26,921] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/battle%20field.jpg HTTP/1.1" 200 81920
+[2021-02-09 02:33:26,951] [base.py:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+[2021-02-09 02:33:26,951] [basehttp.py:124] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 85
+[2021-02-09 02:33:27,074] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-3.jpeg HTTP/1.1" 200 155648
+[2021-02-09 02:33:27,113] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/bg-image-4.jpg HTTP/1.1" 200 163840
+[2021-02-09 02:33:30,184] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/mituan.jpeg HTTP/1.1" 200 835584
+[2021-02-09 02:42:27,338] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 59959
+[2021-02-09 02:42:27,411] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/animations.css HTTP/1.1" 200 3087
+[2021-02-09 02:42:27,431] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 14020
+[2021-02-09 02:42:27,432] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/custom.css HTTP/1.1" 200 296
+[2021-02-09 02:42:27,479] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/logo.png HTTP/1.1" 200 1330
+[2021-02-09 02:42:27,483] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/doom.jpeg HTTP/1.1" 200 15776
+[2021-02-09 02:42:27,499] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-1.jpg HTTP/1.1" 200 17732
+[2021-02-09 02:42:27,537] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/sf.jpeg HTTP/1.1" 200 35804
+[2021-02-09 02:42:27,553] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-2.jpg HTTP/1.1" 200 26550
+[2021-02-09 02:42:27,841] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 73111
+[2021-02-09 02:42:27,860] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/modernizr.js HTTP/1.1" 200 9393
+[2021-02-09 02:42:28,213] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/isotope/isotope.pkgd.min.js HTTP/1.1" 200 35624
+[2021-02-09 02:42:28,544] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/jquery.backstretch.min.js HTTP/1.1" 200 4233
+[2021-02-09 02:42:28,835] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/plugins/jquery.appear.js HTTP/1.1" 200 4227
+[2021-02-09 02:42:29,186] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/js/template.js HTTP/1.1" 200 3367
+[2021-02-09 02:42:29,698] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/js/custom.js HTTP/1.1" 200 313
+[2021-02-09 02:42:29,766] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-3.jpg HTTP/1.1" 200 39212
+[2021-02-09 02:42:29,902] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/storm%20spirit.jpeg HTTP/1.1" 200 142977
+[2021-02-09 02:42:30,643] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-4.jpg HTTP/1.1" 200 23953
+[2021-02-09 02:42:30,867] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-5.jpg HTTP/1.1" 200 17680
+[2021-02-09 02:42:32,604] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/ta.jpeg HTTP/1.1" 200 198080
+[2021-02-09 02:42:32,702] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/gangbei.jpeg HTTP/1.1" 200 150084
+[2021-02-09 02:42:33,356] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-6.jpg HTTP/1.1" 200 46436
+[2021-02-09 02:42:33,763] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/labike.jpg HTTP/1.1" 200 17489
+[2021-02-09 02:42:34,612] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-7.jpg HTTP/1.1" 200 13059
+[2021-02-09 02:42:34,795] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/lanpang.jpeg HTTP/1.1" 200 89008
+[2021-02-09 02:42:35,251] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-8.jpg HTTP/1.1" 200 15397
+[2021-02-09 02:42:35,337] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-9.jpg HTTP/1.1" 200 13059
+[2021-02-09 02:42:35,857] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-10.jpg HTTP/1.1" 200 26779
+[2021-02-09 02:42:38,649] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/shushi.jpeg HTTP/1.1" 200 90169
+[2021-02-09 02:42:39,395] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/qop.jpeg HTTP/1.1" 200 158317
+[2021-02-09 02:42:40,998] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-11.jpg HTTP/1.1" 200 23938
+[2021-02-09 02:42:42,577] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/dotav1/storm%20spirit.jpeg HTTP/1.1" 200 28521
+[2021-02-09 02:42:42,666] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/portfolio-12.jpg HTTP/1.1" 200 15889
+[2021-02-09 02:42:43,565] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/testimonial-1.png HTTP/1.1" 200 1243
+[2021-02-09 02:42:43,613] [basehttp.py:124] [basehttp:log_message] [INFO]- "GET /static/images/testimonial-2.png HTTP/1.1" 200 1344
+[2021-02-09 02:43:12,943] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/animations.css
+[2021-02-09 02:43:12,976] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/style.css
+[2021-02-09 02:43:12,979] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/css/custom.css
+[2021-02-09 02:43:12,999] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/logo.png
+[2021-02-09 02:43:13,000] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/doom.jpeg
+[2021-02-09 02:43:13,001] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-1.jpg
+[2021-02-09 02:43:13,004] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/storm spirit.jpeg
+[2021-02-09 02:43:13,029] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-09 02:43:13,042] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-09 02:43:13,054] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-09 02:43:13,063] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-09 02:43:13,064] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-09 02:43:13,074] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-09 02:43:13,075] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/sf.jpeg
+[2021-02-09 02:43:13,088] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-2.jpg
+[2021-02-09 02:43:13,110] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/gangbei.jpeg
+[2021-02-09 02:43:13,116] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-3.jpg
+[2021-02-09 02:43:13,117] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/kaer.jpeg
+[2021-02-09 02:43:13,125] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-4.jpg
+[2021-02-09 02:43:13,127] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/ta.jpeg
+[2021-02-09 02:43:13,135] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-5.jpg
+[2021-02-09 02:43:13,157] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/lanpang.jpeg
+[2021-02-09 02:43:13,168] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-6.jpg
+[2021-02-09 02:43:13,169] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/labike.jpg
+[2021-02-09 02:43:13,175] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-7.jpg
+[2021-02-09 02:43:13,178] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/mituan.jpeg
+[2021-02-09 02:43:13,180] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-8.jpg
+[2021-02-09 02:43:13,197] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/pake.jpeg
+[2021-02-09 02:43:13,216] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-9.jpg
+[2021-02-09 02:43:13,217] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/qop.jpeg
+[2021-02-09 02:43:13,222] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-10.jpg
+[2021-02-09 02:43:13,226] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/shushi.jpeg
+[2021-02-09 02:43:13,230] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-11.jpg
+[2021-02-09 02:43:13,243] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/dotav1/storm spirit.jpeg
+[2021-02-09 02:43:13,261] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/portfolio-12.jpg
+[2021-02-09 02:43:13,267] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-1.png
+[2021-02-09 02:43:13,270] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/testimonial-2.png
+[2021-02-09 02:43:13,364] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/modernizr.js
+[2021-02-09 02:43:13,414] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/isotope/isotope.pkgd.min.js
+[2021-02-09 02:43:13,464] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.backstretch.min.js
+[2021-02-09 02:43:13,511] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/plugins/jquery.appear.js
+[2021-02-09 02:43:13,559] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/template.js
+[2021-02-09 02:43:13,606] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/js/custom.js
+[2021-02-09 02:43:13,709] [base.py:152] [base:get_response] [WARNING]- Not Found: /static/images/favicon.ico
+[2021-02-09 05:00:23,248] [base.py:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+[2021-02-09 05:00:23,391] [base.py:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
